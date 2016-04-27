@@ -7,4 +7,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 click download zip and extract it too your texturepacks folder in minetest. You will found this folder in ~/.minetest/ or in your installation directory.
 An other option to install it, wich only works for unix like systems is shown later. This instructions are for Debian gnu / Linux and ubuntu:
 tipp "apt-get install git" with root previlegs. 
-Then "cd ~/.minetest/texturepacks/" and "git  clone https://githb.com/mbblp/minetest-texturepack-nature-test".
+Then "cd ~/.minetest/texturepacks/" and "git  clone https://github.com/mbblp/minetest-texturepack-nature-test".
