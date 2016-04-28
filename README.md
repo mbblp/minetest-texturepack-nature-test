@@ -8,3 +8,8 @@ click download zip and extract it too your texturepacks folder in minetest. You 
 An other option to install it, wich only works for unix like systems is shown later. This instructions are for Debian GNU / Linux and ubuntu:
 run "apt-get install git" with root previlegs. 
 Then "cd ~/.minetest/textures" and "git  clone https://github.com/mbblp/minetest-texturepack-nature-test".
+
+# Credits
+
+azekill_DIABLO
+default_cobble.png 
