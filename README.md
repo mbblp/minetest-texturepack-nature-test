@@ -11,5 +11,5 @@ Then "cd ~/.minetest/textures" and "git  clone https://github.com/mbblp/minetest
 
 # Credits
 
-azekill_DIABLO
+azekill_DIABLO:                         
 default_cobble.png 
