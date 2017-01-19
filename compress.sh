@@ -5,7 +5,7 @@ rm .directory;
 # update files on github
 git status;
 git add *
-git commit;
+git commit -m "update textures";
 git push;
 
 # create work directory
